@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://instal-apps-osx.github.io/.github/kekmac">  
+<a href="https://soft-mac-install.github.io/.github/kekamac">  
 <img src="https://img.shields.io/badge/Get_Keka_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get Keka">  
 </a>  
 </div>  
